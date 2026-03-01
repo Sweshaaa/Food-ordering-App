@@ -1,6 +1,3 @@
-
-
-
 package com.example.foodorderingapp.ui.screens
 
 import android.widget.Toast
