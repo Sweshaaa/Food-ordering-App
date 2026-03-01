@@ -9,6 +9,7 @@ import com.example.foodorderingapp.ForgotPasswordScreen
 import com.example.foodorderingapp.LoginScreen
 import com.example.foodorderingapp.RegisterScreen
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
